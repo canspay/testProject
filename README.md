@@ -1,3 +1,4 @@
 # testProject
 
-My new changes in master repo
+
+Editing master Read ME file via feature branch 1 
